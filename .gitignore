@@ -1,0 +1,7 @@
+/bulid/
+.*
+!.gitignore
+/lib/
+/logs/
+/target/
+*.iml
